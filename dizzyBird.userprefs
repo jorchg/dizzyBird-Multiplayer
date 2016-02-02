@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controllers/ScoreController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controllers/ObstacleScoreController.cs" Line="11" Column="28" />
+      <File FileName="Assets/Scripts/Controllers/dizzyBirdControllerMain.cs" Line="38" Column="64" />
+      <File FileName="Assets/Scripts/Controllers/dizzyBirdController.cs" Line="83" Column="67" />
+      <File FileName="Assets/Scripts/Controllers/ScoreController.cs" Line="52" Column="99" />
+      <File FileName="Assets/Scripts/Controllers/dizzyBirdControllerFlappy.cs" Line="19" Column="22" />
+      <File FileName="Assets/Scripts/Utilities/FollowDizzyBird.cs" Line="10" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
